@@ -1,0 +1,13 @@
+
+development:
+  adapter: postgresql
+  database: request_line_development
+
+test:
+  adapter: postgresql
+  database: request_line_test
+
+
+production:
+  adapter: postgresql
+  database: request_line_production
